@@ -21,7 +21,7 @@ Before running this application, ensure you have the following installed:
 
    ```bash
    python train_reservation.py
-##Features
+#Features
 Three buttons for different options: Login, Sign Up, and Forgot My Password.
 Responsive window that can be resized by the user.
 A visually appealing user interface with customizable colors and fonts.
@@ -32,6 +32,6 @@ Click on the "Forgot My Password" button to recover your password.
 Customization
 You can customize the appearance of the buttons and other elements in the script by modifying the color and font variables in the code.
 
-##Dependencies
+#Dependencies
 Python 3.x
 Pygame library
